@@ -1,0 +1,7 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "klaustakayama <klaus.takayama@gmail.com>",
+  "license": "MIT"
+}
